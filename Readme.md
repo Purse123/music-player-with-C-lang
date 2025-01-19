@@ -1,2 +1,3 @@
 # Music Player
-[![video.mp4](./project.mp4)]
+
+[Watch the video](./project.mp4)
